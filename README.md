@@ -1,22 +1,22 @@
 ## Welcome! 🎉
 
 ### Sobre mim 👦
-##### Meu nome é Enzo, tenho 17 anos e comecei a estudar programação para me tornar um DEV de sucesso! No meu tempo livre, tenho como hobbies videogame, academia e animes. Estou aberto para novas oportunidades de aprendizado!
+Meu nome é Enzo, tenho 17 anos e comecei a estudar programação para me tornar um DEV de sucesso! No meu tempo livre, tenho como hobbies videogame, academia e animes. Estou aberto para novas oportunidades de aprendizado!
 
 ### Formação 🎓
-##### Ensino Médio Integrado ao técnico SESC/SENAC (Em andamento);
-##### Java Empregatech SENAC (Em andamento);
-##### Curso Lógica de Programação (2022)
+- Ensino Médio Integrado ao técnico SESC/SENAC (Em andamento);  
+- Java Empregatech SENAC (Em andamento);
+- Curso Lógica de Programação (2022)
 
 ### Habilidades 🏆
-##### - HTML & CSS Básico;
-##### - JavaScript Básico;
-##### - React Básico;
-##### - My SQL e Node Básico
+- HTML & CSS Básico;
+- JavaScript Básico;
+- React Básico;
+- My SQL e Node Básico
 
 ### Atualmente estudando 📚
-##### - React ⚛️
-##### - Java ☕
+- React ⚛️
+- Java ☕
 
 ### Contatos: 📩
 
