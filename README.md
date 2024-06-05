@@ -27,5 +27,5 @@ Meu nome é Enzo, tenho 17 anos e comecei a estudar programação para me tornar
 <a href="https://x.com/enzotakashi" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
 </div>
 
-![enzotmborges' GitHub stats](https://github-readme-stats.vercel.app/api?username=enzotmborges&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzotmborges&layout=donut)
+![enzotmborges' GitHub stats](https://github-readme-stats.vercel.app/api?username=enzotmborges&show_icons=true&theme=dark)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzotmborges&layout=compact&theme=dark">
