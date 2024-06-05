@@ -28,3 +28,4 @@ Meu nome é Enzo, tenho 17 anos e comecei a estudar programação para me tornar
 </div>
 
 ![enzotmborges' GitHub stats](https://github-readme-stats.vercel.app/api?username=enzotmborges&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzotmborges&layout=donut)
