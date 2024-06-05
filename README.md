@@ -1,7 +1,10 @@
 ## Welcome! 👋
 
-#### Meu nome é Enzo e sou estudante do SESC Centro de Londrina 📚
-#### Estudante do 3º ano Ensino Médio Integrado ao Técnico em Informática 🎓
+### Sobre mim 🧑
+##### Meu nome é Enzo, tenho 17 anos e comecei a estudar programação para me tornar um DEV de sucesso! No meu tempo livre, gosto de jogos online e animes. Estou aberto para novas oportunidades de aprendizado!
+
+### Formação 🎓
+##### 3° Ano Ensino Médio Integrado ao técnico SESC/SENAC;
 #### Atualmente estudando:
 ##### - React ⚛️
 ##### - Java ☕
