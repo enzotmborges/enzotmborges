@@ -1,8 +1,10 @@
-## Hi there 👋
+## Welcome! 👋
 
 #### Meu nome é Enzo e sou estudante do SESC Centro de Londrina 📚
-#### 3º ano Ensino Médio Integrado ao Técnico em Informática 🎓
-#### Estudando React & JavaScript 👨‍💻
+#### Estudante do 3º ano Ensino Médio Integrado ao Técnico em Informática 🎓
+#### Atualmente estudando:
+##### - React ⚛️
+##### - Java ☕
 
 ### Contatos: 📩
 
